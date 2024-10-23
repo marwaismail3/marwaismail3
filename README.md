@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marwaismail3
-- 👀 I’m interested in maths and F1
+- 👀 I’m interested in maths and F1(leisure)
 - 🌱 I’m currently learning mathematics in University!
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me marwaaismail3@gmail.com
